@@ -14,7 +14,7 @@ namespace Console1
             bob.Name = "Bobas";
             Console.WriteLine(bob.Name);    //Bobas
             Console.WriteLine(tom.Name);    //Bobas
-
+            //Здесь было первое изменение
         }
     }
 
