@@ -15,6 +15,7 @@ namespace Console1
             Console.WriteLine(bob.Name);    //Bobas
             Console.WriteLine(tom.Name);    //Bobas
             //Здесь было первое изменение
+            //Здесь изменение из удаленного сервера
         }
     }
 
